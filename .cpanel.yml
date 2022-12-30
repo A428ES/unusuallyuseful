@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/kjj9edsyt484/repositories/unusuallyuseful/
-    - /bin/cp -R images $DEPLOYPATH
+    - python $DEPLOYPATH/main.py
