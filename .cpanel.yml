@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - python /home/kjj9edsyt484/repositories/unusuallyuseful/main.py
+    - flask run /home/kjj9edsyt484/repositories/unusuallyuseful/main.py
