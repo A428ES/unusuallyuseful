@@ -1,5 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/kjj9edsyt484/repositories/unusuallyuseful/
-    - python $DEPLOYPATH/main.py
+    - python /home/kjj9edsyt484/repositories/unusuallyuseful/main.py
